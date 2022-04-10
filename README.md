@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Ahttps://www.frontendmentor.io/solutions/ip-address-tracker-Byw0vjgN5](https://www.frontendmentor.io/solutions/ip-address-tracker-Byw0vjgN5)
 - Live Site URL: [https://anle9650.github.io/ip-address-tracker-master/](https://anle9650.github.io/ip-address-tracker-master/)
 
 ## My process
@@ -43,7 +43,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Vue](https://vuejs.org/) - JS library
+- [Vue 3](https://vuejs.org/)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 
 ## Author
